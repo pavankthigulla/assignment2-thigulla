@@ -16,3 +16,11 @@ Naearest airport is **George Bush Intercontinental Airport**
 * Schlotzsky's Sndwitch
 
 [AboutMe](https://github.com/pavankthigulla/assignment2-thigulla/blob/main/AboutMe.md)
+
+---
+# Table
+| City | location | Time |
+| --- | --- | ---: |
+| Kansas city | Godhavary Restaurint <br> MCI Airport | 2 hours <br> as long as you want |
+| Charlotte | Pineville Forest<br> Carrowinds Park | 2hours <br> 8 hours |
+| Maryville | Northwest Missouri State University<br>The Pub | 1 Hour <br> 5 hours |
