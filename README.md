@@ -24,3 +24,8 @@ Naearest airport is **George Bush Intercontinental Airport**
 | Kansas city | Godhavary Restaurint <br> MCI Airport | 2 hours <br> as long as you want |
 | Charlotte | Pineville Forest<br> Carrowinds Park | 2hours <br> 8 hours |
 | Maryville | Northwest Missouri State University<br>The Pub | 1 Hour <br> 5 hours |
+
+---
+# Quotes
+>God is Great *-lokesh*
+>Begining is the veary heardest step in every process. *-Sai Kiran*
