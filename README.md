@@ -14,3 +14,5 @@ Naearest airport is **George Bush Intercontinental Airport**
 ### Places I recommend visiting around
 * Smoothie King
 * Schlotzsky's Sndwitch
+
+[AboutMe](https://github.com/pavankthigulla/assignment2-thigulla/blob/main/AboutMe.md)
