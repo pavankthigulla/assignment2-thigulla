@@ -30,3 +30,16 @@ Naearest airport is **George Bush Intercontinental Airport**
 >God is Great *-lokesh*<br>
 
 >Begining is the veary heardest step in every process. *-Sai Kiran*
+
+---
+# Code Fencing
+>Link Pseudo-Classes (In Order) 
+[Stack ovetflow](https://stackoverflow.com/questions/8159656/what-is-the-correct-way-css-link-pseudo-class)
+```
+a:link    { color: blue; }
+a:visited { color: purple; }
+a:hover   { color: red; }
+a:focus   { outline: 1px solid blue; }
+a:active  { color: yellow ;}
+```
+[CSS Code tricks](https://css-tricks.com/snippets/css/link-pseudo-classes-in-order/)
